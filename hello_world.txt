@@ -1,3 +1,0 @@
-Say hello to Odin! World!
-
-Trying to write some commit messages
